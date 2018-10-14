@@ -27,5 +27,5 @@ NOTE: This program was compiled, tested, and run using the following:
 
 ## Degree Distribution
 * Open k.xslx
-* Paste the output in k0.8.txt into rows B and C (starting at row 2) of edges.xlsx
-* The contained chart should update to match the data. Compare to FIg.5 of the paper.
+* Paste the output in k0.8.txt into rows A and B (starting at row 2) of edges.xlsx
+* The contained chart should update to match the data. Compare to Fig.5 of the paper.
