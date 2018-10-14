@@ -1,7 +1,6 @@
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.util.ArrayList;
-import java.util.Hashtable;
 import java.util.Random;
 
 public class PreferentialDeletion
